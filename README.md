@@ -5,9 +5,7 @@ simple-phonebook is a simple javascript module for:
 3. get all the contacts
 
 #note
-1. rename file extention to .mjs if you are using common javascript
-
-2. the module does not return any error. it will simply return and abort. you can handle all errors and exceptions by adding the hanldlers where indicated.
+1. the module does not return any error. it will simply return and abort. you can handle all errors and exceptions by adding the hanldlers where indicated.
 
 
 # usage
