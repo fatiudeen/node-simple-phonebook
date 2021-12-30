@@ -12,12 +12,12 @@ simple-phonebook is a simple javascript module for:
 
 # usage
 ```javascript
-#returns an object of the saved contact
+//returns an object of the saved contact
 storeContact(phoneNumber, name, email)
 
-#returns a contact object
+//returns a contact object
 getOneContact(phoneNumber)
 
-#returns array of contact objects
+//returns array of contact objects
 getAllContacts()
 ```
