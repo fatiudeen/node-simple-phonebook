@@ -9,7 +9,7 @@ class Contact{
         this.phoneNumber = phoneNumber
         this.name = name
         this.email = email
-        this.dateCreated = new Date()
+        this.dateCreated = new Date() 
     }
 }
 
